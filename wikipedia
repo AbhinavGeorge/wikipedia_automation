@@ -1,0 +1,5 @@
+echo "welcome to terminal wikipedia"
+cd 
+cd Documents/code/python/automation_with_selenium/refresh/
+python automation.py
+
