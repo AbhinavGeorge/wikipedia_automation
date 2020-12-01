@@ -28,4 +28,3 @@ The steps to do that are as follows
 4.)lastly open up your terminal and type in 'wikipedia'
 
 
-('''''discleaimer''' This may not work in macos or windows but 100% assured of working in linux if done correctly)
